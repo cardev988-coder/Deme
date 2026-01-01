@@ -1,0 +1,25 @@
+{
+  "name": "deme",
+  "version": "1.0.0",
+  "description": "Uma plataforma que possui a função de facilitar a jogatina para jogadores de RPG.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cardev988-coder/deme.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/cardev988-coder/deme/issues"
+  },
+  "homepage": "https://github.com/cardev988-coder/deme#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+}
+}
